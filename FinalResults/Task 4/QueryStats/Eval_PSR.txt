@@ -1,0 +1,416 @@
+Query Id: 1
+Precision at 5: 0.2
+Precision at 20: 0.05
+Average Precision: 0.1
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.0019230769230769232
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 2
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.16666666666666666
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.003205128205128205
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 3
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.08333333333333333
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.0016025641025641025
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 4
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.041666666666666664
+Total Number of queries evaluated: 52
+Mean Average Precision: 8.012820512820513E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 5
+Precision at 5: 0.2
+Precision at 20: 0.05
+Average Precision: 0.0625
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.001201923076923077
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 6
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.16666666666666666
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.003205128205128205
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 7
+Precision at 5: 0.4
+Precision at 20: 0.1
+Average Precision: 0.017857142857142856
+Total Number of queries evaluated: 52
+Mean Average Precision: 3.434065934065934E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 8
+Precision at 5: 0.2
+Precision at 20: 0.05
+Average Precision: 0.16666666666666666
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.003205128205128205
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 9
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.05555555555555555
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.0010683760683760683
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 10
+Precision at 5: 0.2
+Precision at 20: 0.1
+Average Precision: 0.014285714285714285
+Total Number of queries evaluated: 52
+Mean Average Precision: 2.747252747252747E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 11
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.02631578947368421
+Total Number of queries evaluated: 52
+Mean Average Precision: 5.060728744939271E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 12
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.1
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.0019230769230769232
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 13
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.045454545454545456
+Total Number of queries evaluated: 52
+Mean Average Precision: 8.741258741258741E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 14
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.011363636363636364
+Total Number of queries evaluated: 52
+Mean Average Precision: 2.1853146853146853E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 15
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.05
+Total Number of queries evaluated: 52
+Mean Average Precision: 9.615384615384616E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 16
+Precision at 5: 0.0
+Precision at 20: 0.05
+Average Precision: 0.029411764705882353
+Total Number of queries evaluated: 52
+Mean Average Precision: 5.656108597285067E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 17
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.03125
+Total Number of queries evaluated: 52
+Mean Average Precision: 6.009615384615385E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 18
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.045454545454545456
+Total Number of queries evaluated: 52
+Mean Average Precision: 8.741258741258741E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 19
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.045454545454545456
+Total Number of queries evaluated: 52
+Mean Average Precision: 8.741258741258741E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 20
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.16666666666666666
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.003205128205128205
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 21
+Precision at 5: 0.0
+Precision at 20: 0.05
+Average Precision: 0.045454545454545456
+Total Number of queries evaluated: 52
+Mean Average Precision: 8.741258741258741E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 22
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.029411764705882353
+Total Number of queries evaluated: 52
+Mean Average Precision: 5.656108597285067E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 23
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.125
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.002403846153846154
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 24
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.038461538461538464
+Total Number of queries evaluated: 52
+Mean Average Precision: 7.396449704142013E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 25
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.00980392156862745
+Total Number of queries evaluated: 52
+Mean Average Precision: 1.885369532428356E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 26
+Precision at 5: 0.0
+Precision at 20: 0.05
+Average Precision: 0.016666666666666666
+Total Number of queries evaluated: 52
+Mean Average Precision: 3.205128205128205E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 27
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.017241379310344827
+Total Number of queries evaluated: 52
+Mean Average Precision: 3.315649867374005E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 28
+Precision at 5: 0.2
+Precision at 20: 0.05
+Average Precision: 0.1
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.0019230769230769232
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 29
+Precision at 5: 0.0
+Precision at 20: 0.05
+Average Precision: 0.02631578947368421
+Total Number of queries evaluated: 52
+Mean Average Precision: 5.060728744939271E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 30
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.125
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.002403846153846154
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 31
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.25
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.004807692307692308
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 32
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.16666666666666666
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.003205128205128205
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 33
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.5
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.009615384615384616
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 36
+Precision at 5: 0.4
+Precision at 20: 0.1
+Average Precision: 0.025
+Total Number of queries evaluated: 52
+Mean Average Precision: 4.807692307692308E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 37
+Precision at 5: 0.0
+Precision at 20: 0.05
+Average Precision: 0.041666666666666664
+Total Number of queries evaluated: 52
+Mean Average Precision: 8.012820512820513E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 38
+Precision at 5: 0.0
+Precision at 20: 0.05
+Average Precision: 0.03125
+Total Number of queries evaluated: 52
+Mean Average Precision: 6.009615384615385E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 39
+Precision at 5: 0.4
+Precision at 20: 0.2
+Average Precision: 0.041666666666666664
+Total Number of queries evaluated: 52
+Mean Average Precision: 8.012820512820513E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 40
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.05
+Total Number of queries evaluated: 52
+Mean Average Precision: 9.615384615384616E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 42
+Precision at 5: 0.2
+Precision at 20: 0.05
+Average Precision: 0.023809523809523808
+Total Number of queries evaluated: 52
+Mean Average Precision: 4.578754578754579E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 43
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.012195121951219513
+Total Number of queries evaluated: 52
+Mean Average Precision: 2.3452157598499062E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 44
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.029411764705882353
+Total Number of queries evaluated: 52
+Mean Average Precision: 5.656108597285067E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 45
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.019230769230769232
+Total Number of queries evaluated: 52
+Mean Average Precision: 3.6982248520710064E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 48
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.041666666666666664
+Total Number of queries evaluated: 52
+Mean Average Precision: 8.012820512820513E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 49
+Precision at 5: 0.2
+Precision at 20: 0.05
+Average Precision: 0.0625
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.001201923076923077
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 57
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.5
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.009615384615384616
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 58
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.016666666666666666
+Total Number of queries evaluated: 52
+Mean Average Precision: 3.205128205128205E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 59
+Precision at 5: 0.2
+Precision at 20: 0.1
+Average Precision: 0.011627906976744186
+Total Number of queries evaluated: 52
+Mean Average Precision: 2.2361359570661896E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 60
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.018518518518518517
+Total Number of queries evaluated: 52
+Mean Average Precision: 3.561253561253561E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 61
+Precision at 5: 0.2
+Precision at 20: 0.05
+Average Precision: 0.016129032258064516
+Total Number of queries evaluated: 52
+Mean Average Precision: 3.1017369727047146E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 62
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.0625
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.001201923076923077
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 63
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.041666666666666664
+Total Number of queries evaluated: 52
+Mean Average Precision: 8.012820512820513E-4
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________
+Query Id: 64
+Precision at 5: 0.2
+Precision at 20: 0.05
+Average Precision: 0.5
+Total Number of queries evaluated: 52
+Mean Average Precision: 0.009615384615384616
+Mean Reciprocal Rank: 0.20456854042380354
+________________________________________________________________________

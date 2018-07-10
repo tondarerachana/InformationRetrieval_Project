@@ -1,0 +1,56 @@
+Query Id: 1
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.07092080498996553
+Total Number of queries evaluated: 7
+Mean Average Precision: 0.010131543569995075
+Mean Reciprocal Rank: 0.02704158125019123
+________________________________________________________________________
+Query Id: 2
+Precision at 5: 0.0
+Precision at 20: 0.05
+Average Precision: 0.11820134164994256
+Total Number of queries evaluated: 7
+Mean Average Precision: 0.016885905949991793
+Mean Reciprocal Rank: 0.02704158125019123
+________________________________________________________________________
+Query Id: 3
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.05910067082497128
+Total Number of queries evaluated: 7
+Mean Average Precision: 0.008442952974995897
+Mean Reciprocal Rank: 0.02704158125019123
+________________________________________________________________________
+Query Id: 4
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.02955033541248564
+Total Number of queries evaluated: 7
+Mean Average Precision: 0.004221476487497948
+Mean Reciprocal Rank: 0.02704158125019123
+________________________________________________________________________
+Query Id: 5
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.04432550311872846
+Total Number of queries evaluated: 7
+Mean Average Precision: 0.0063322147312469225
+Mean Reciprocal Rank: 0.02704158125019123
+________________________________________________________________________
+Query Id: 6
+Precision at 5: 0.0
+Precision at 20: 0.0
+Average Precision: 0.11820134164994256
+Total Number of queries evaluated: 7
+Mean Average Precision: 0.016885905949991793
+Mean Reciprocal Rank: 0.02704158125019123
+________________________________________________________________________
+Query Id: 7
+Precision at 5: 0.0
+Precision at 20: 0.05
+Average Precision: 0.012664429462493845
+Total Number of queries evaluated: 7
+Mean Average Precision: 0.0018092042089276922
+Mean Reciprocal Rank: 0.02704158125019123
+________________________________________________________________________
