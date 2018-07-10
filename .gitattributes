@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+finalResults/*  linguist-vendored
+Stem/* linguist-vendored
+cacm/* linguist-vendored
+index/* linguist-vendored
+input/* linguist-vendored
+results/* linguist-vendored
